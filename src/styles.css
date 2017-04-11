@@ -1,0 +1,36 @@
+/* You can add global styles to this file, and also import other style files */
+html,body{
+    height: 100%;
+}
+@font-face {
+    font-family: MontserratBlack;
+    src: url(assets/fonts/Montserrat-Black.ttf);
+}
+@font-face {
+    font-family: MontserratBlackItalic;
+    src: url(assets/fonts/Montserrat-BlackItalic.ttf);
+}
+@font-face {
+    font-family: MontserratBold;
+    src: url(assets/fonts/Montserrat-Bold.ttf);
+}
+@font-face {
+    font-family: MontserratBoldItalic;
+    src: url(assets/fonts/Montserrat-BoldItalic.ttf);
+}
+@font-face {
+    font-family: MontserratLight;
+    src: url(assets/fonts/Montserrat-Light.ttf);
+}
+@font-face {
+    font-family: MontserratItalic;
+    src: url(assets/fonts/Montserrat-Italic.ttf);
+}
+@font-face {
+    font-family: MontserratThin;
+    src: url(assets/fonts/Montserrat-Thin.ttf);
+}
+@font-face {
+    font-family: MontserratSemibold;
+    src: url(assets/fonts/Montserrat-SemiBold.ttf);
+}

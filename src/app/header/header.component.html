@@ -1,0 +1,20 @@
+<button type="button" class="navbar-custom" (click)="ActivateNav='open'" [ngClass]="{'open' : ActivateNav=='open' }">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+</button>
+<div class="navbar-main-content" [ngClass]="{ 'open' : ActivateNav=='open', 'closed' : ActivateNav=='close' }">
+  <div class="close-btn-holder" (click)="ActivateNav='close'">
+    <div class="close-btn" aria-label="Close" >
+    </div>
+  </div>
+  <div class="nav-content-holder">
+    <ul>
+      <li>
+        <a> lldd </a>
+      </li>
+    </ul>
+  </div>
+</div>

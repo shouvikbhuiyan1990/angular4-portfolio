@@ -1,0 +1,349 @@
+
+
+.slideDown{
+	animation-name: slideDown;
+	-webkit-animation-name: slideDown;	
+
+	animation-duration: 1.5s;	
+	-webkit-animation-duration: 1.5s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+	
+	-webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown {
+	0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 750%, 0);
+            transform: translate3d(0, 750%, 0);
+  }		
+}
+
+@-webkit-keyframes slideDown {
+	 0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 750%, 0);
+            transform: translate3d(0, 750%, 0);
+  }	
+}
+
+/*
+==============================================
+slideDown2
+==============================================
+*/
+
+
+.slideDown2{
+	animation-name: slideDown2;
+	-webkit-animation-name: slideDown2;	
+
+	animation-duration: 1.2s;	
+	-webkit-animation-duration: 1.2s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+	
+	-webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+	
+	animation-delay:0.9s;
+	-webkit-animation-delay:0.9s;
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown2 {
+	0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 820%, 0);
+            transform: translate3d(0, 820%, 0);
+  }		
+}
+
+@-webkit-keyframes slideDown2 {
+	 0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 820%, 0);
+            transform: translate3d(0, 820%, 0);
+  }	
+}
+
+/*
+==============================================
+slideDown3
+==============================================
+*/
+
+
+.slideDown3{
+	animation-name: slideDown3;
+	-webkit-animation-name: slideDown3;	
+
+	animation-duration: 1.5s;	
+	-webkit-animation-duration: 1.5s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+	
+	-webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+	
+	animation-delay:0.4s;
+	-webkit-animation-delay:0.4s;
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown3 {
+	0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 910%, 0);
+            transform: translate3d(0, 910%, 0);
+  }		
+}
+
+@-webkit-keyframes slideDown3 {
+	 0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 910%, 0);
+            transform: translate3d(0, 910%, 0);
+  }	
+}
+
+/*
+==============================================
+slideDown4
+==============================================
+*/
+
+
+.slideDown4{
+	animation-name: slideDown4;
+	-webkit-animation-name: slideDown4;	
+
+	animation-duration: 1.3s;	
+	-webkit-animation-duration: 1.3s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+	
+	-webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown4 {
+	0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 1010%, 0);
+            transform: translate3d(0, 1010%, 0);
+  }		
+}
+
+@-webkit-keyframes slideDown4 {
+	 0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 1010%, 0);
+            transform: translate3d(0, 1010%, 0);
+  }	
+}
+
+/*
+==============================================
+slideDown5
+==============================================
+*/
+
+
+.slideDown5{
+	animation-name: slideDown5;
+	-webkit-animation-name: slideDown5;	
+
+	animation-duration: 1.3s;	
+	-webkit-animation-duration: 1.3s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+	
+	-webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+	
+	animation-delay:0.1s;
+	-webkit-animation-delay:0.1s;
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown5 {
+	0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 1201%, 0);
+            transform: translate3d(0, 1201%, 0);
+  }		
+}
+
+@-webkit-keyframes slideDown5 {
+	 0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 1201%, 0);
+            transform: translate3d(0, 1201%, 0);
+  }	
+}
+.slideDown5{
+	animation-name: slideDown5;
+	-webkit-animation-name: slideDown5;	
+
+	animation-duration: 1.3s;	
+	-webkit-animation-duration: 1.3s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+	
+	-webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+	
+	animation-delay:0.1s;
+	-webkit-animation-delay:0.1s;
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown5 {
+	0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 1201%, 0);
+            transform: translate3d(0, 1201%, 0);
+  }		
+}
+
+@-webkit-keyframes slideDown5 {
+	 0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 1201%, 0);
+            transform: translate3d(0, 1201%, 0);
+  }	
+}
+
+
+
+
+/*End of Animations*/
+
+
+.intro-container{
+    min-height: 100%;
+    background-image: url('/assets/images/sky.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.intro-container::before{
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(90deg, rgba(49,61,65,0.6), rgba(49,61,65,0.6));
+    background-image: -webkit-linear-gradient(90deg, rgba(49,61,65,0.6), rgba(49,61,65,0.6));
+}
+.intro-container:before, .intro-container:after{
+    content: '';
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.intro-content{
+    z-index: 2;
+    font-family: MontserratThin;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+#rain{
+  align-self: center;
+}
+#rain > img{
+    height: 200px;
+}
+#rain > .drops {
+    position: relative;
+    height: 100px;
+}
+#rain > .drops > img{
+    z-index: -2;
+    position: absolute;
+    top: 0;
+    max-height: 16px;
+}
+
+.intro-content button {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s, opacity 0.5s linear;
+}
+.active button {
+  visibility: visible;
+  opacity: 1;
+}
+
+.custom-btn{
+  background-image: url('/assets/images/vines.png');
+  background-size: contain;
+  background-position: 0 15px;
+}
